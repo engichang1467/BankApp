@@ -1,13 +1,13 @@
 # Banking Application
 
-Developed a banking application in Java that allow user to see their balance, deposit and withdraw their money.
+Developed a banking application in Java that allows user to see their balance, deposit and withdraw their money.
 
 ## How to use it
 
-Go run this program on IntelliJ, and you will see your console like this
+Build and Run this program on IntelliJ, and you will see your console like this
 
 ```
-Welcome XYZ
+Welcome User!!
 Your ID is BA001
 
 A. Check Balance
